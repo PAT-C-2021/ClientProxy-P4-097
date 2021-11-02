@@ -20,6 +20,7 @@ namespace ClientProxy_P4_20190140097
             double hasilBagi = obj.Bagi(2, 2);
             Console.WriteLine("2 / 2 = " + hasilBagi);
 
+            //koordinat operation
             ServiceReference1.Koordinat a = new ServiceReference1.Koordinat();
             ServiceReference1.Koordinat b = new ServiceReference1.Koordinat();
 
